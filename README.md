@@ -1,3 +1,3 @@
 ﻿# ayanflutter
 ![](assets/background.png)
-<img scr ="assets/background.png" width=100 height=100>
+<img scr ="assets/background.png" width=200 height=300>
