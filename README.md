@@ -1,3 +1,3 @@
 ﻿# ayanflutter
-![](assets/background.png)
+<!-- ![](assets/background.png) -->
 
